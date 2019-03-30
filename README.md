@@ -27,7 +27,7 @@ Tensorflow gpu for those who have cuda enabled gpu on thier system.
 
 To directly test this project go to downloaded directory and run Cat_vs_Dog_predict.ipynb in jupyter-notebook or jupyter lab.
 
-This python notebook load pretrained model and predict your given image.
+This python notebook load pretrained model and predict your given image .Any value less than 0.5 means Cat and above 0.5 means Dog.
 
 To train your own model first go to this link and download cats and dogs dataset:
 
