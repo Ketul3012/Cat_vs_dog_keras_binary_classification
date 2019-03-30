@@ -23,6 +23,7 @@ pip install numpy
 pip install pandas
 pip install matplotlib
 ```
+Tensorflow gpu for those who have cuda enabled gpu on thier system.
 
 To directly test this project go to downloaded directory and run Cat_vs_Dog_predict.ipynb in jupyter-notebook or jupyter lab.
 
